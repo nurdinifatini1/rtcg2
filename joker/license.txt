@@ -1,0 +1,11 @@
+Model Information:
+* title:	Joker_textured_rigged
+* source:	https://sketchfab.com/3d-models/joker-textured-rigged-b1dc84977a7c445e90884683b2e0d44a
+* author:	mestredosfiltros3d (https://sketchfab.com/mestredosfiltros3d)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Joker_textured_rigged" (https://sketchfab.com/3d-models/joker-textured-rigged-b1dc84977a7c445e90884683b2e0d44a) by mestredosfiltros3d (https://sketchfab.com/mestredosfiltros3d) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
