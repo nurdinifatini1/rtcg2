@@ -1,0 +1,11 @@
+Model Information:
+* title:	Batman Ps1 graphics
+* source:	https://sketchfab.com/3d-models/batman-ps1-graphics-6cbe650ebc7f4419a1980f1f0b969921
+* author:	Guso (https://sketchfab.com/Guso)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Batman Ps1 graphics" (https://sketchfab.com/3d-models/batman-ps1-graphics-6cbe650ebc7f4419a1980f1f0b969921) by Guso (https://sketchfab.com/Guso) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
