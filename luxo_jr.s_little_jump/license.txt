@@ -1,0 +1,11 @@
+Model Information:
+* title:	Luxo Jr.'s little jump
+* source:	https://sketchfab.com/3d-models/luxo-jrs-little-jump-8a1357c60b304d5d840a682b2569017f
+* author:	Andy Cuccaro (https://sketchfab.com/andycuccaro)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Luxo Jr.'s little jump" (https://sketchfab.com/3d-models/luxo-jrs-little-jump-8a1357c60b304d5d840a682b2569017f) by Andy Cuccaro (https://sketchfab.com/andycuccaro) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
